@@ -1,2 +1,2 @@
 # .github
-GitHub Public Organization Configuration for the DxContainers Organization.
+GitHub Configuration for the DxContainers Organization.
